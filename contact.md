@@ -22,5 +22,3 @@ Belkirk College of Engineering is available:
 ## Contact Information
 
 {% include address.html %}
-
-{% include map.html %}
