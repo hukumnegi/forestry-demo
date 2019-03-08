@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Medical Health Treatments
 partners:
 - "/uploads/2017/11/13/CNODES-logo-lg.jpg"
 - "/uploads/2017/11/13/stem.png"
